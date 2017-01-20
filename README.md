@@ -1,1 +1,1 @@
-Source code for [suitcss.github.io](http://suitcss.github.io/)
+Source code for [xavis.github.io/ShitCSS/](http://xavis.github.io/ShitCSS/)
